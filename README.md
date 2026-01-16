@@ -2,7 +2,8 @@
 
 ## Purpose
 
-> <a href="https://teravue.github.io/site/main/blob/ebhome.htm"> The entry page </a> <br>
+> <a href="https://teravue.github.io/site/ebhome.htm"> The entry page </a> <br>
+
 
 
 
